@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7zqTnSxpxPs7igR3WN3UD+d05sxP7LrL/hLfAmx9oS0=",
+  "Source": "AzureBlobIntegration",
+  "BasePath": "_content/AzureBlobIntegration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
